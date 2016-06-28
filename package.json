@@ -1,0 +1,23 @@
+{
+  "name": "web-sql-database",
+  "version": "1.0.0",
+  "description": "Web SQL Database 实例",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoleiwhut/Web-SQL-Database.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoleiwhut/Web-SQL-Database/issues"
+  },
+  "homepage": "https://github.com/zhaoleiwhut/Web-SQL-Database#readme"
+}
